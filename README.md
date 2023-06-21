@@ -1,6 +1,18 @@
 # QtNotepad
 This is Simple Texteditor using developed using qtcreator
 
+You can run this code in the Qt Creator application by selecting the "Run" option. In the main window, I have added a QTextEdit for text editing, and various tools have been added to the toolbars. When a widget action is triggered, certain actions will be performed.
+
+While adding the "About Me" section for the resume dialogue, I faced challenges. Additionally, I encountered issues with the resource file as the images were not displaying properly. However, I was able to resolve these problems by seeking help from Stack Overflow and consulting ChatGPT.
+
+The features of the Notepad include:
+
+1.Text Editing
+
+2.File Operations such as save, save as, copy, cut, undo, and redo
+
+3.Text Formatting
+
 Notepad Output : 
 ![71d23575-b5af-4a23-a70f-217ac084a118](https://github.com/Pradnya280/QtNotepad/assets/78024989/8604da18-bcf6-4a57-93a5-b9f5dc62cbf1)
 
@@ -20,16 +32,5 @@ Resume
 ![6cdc8ed9-c27c-407c-add1-dff8257aa883](https://github.com/Pradnya280/QtNotepad/assets/78024989/4644f531-36ee-4f43-b8d1-44ec05716a1b)
 
 
-You can run this code on qtcreator application using run option.
-I have added textedit, for mainwindow and then in the toolbars various tools has been added.
-After clicking on widget action will be triggered. 
 
-while adding about me section for resume dialogue it was challenging , also faced issues during resource file as images was not showing in the resource file.
-But issues resolved after getting through stackoveflow , chatgpt.
-
-Feature of the Notepad:
-1.Text Editing
-2.File Operations
-like save, saveas, copy, cut, undo, redo
-3.Text Formatting
 
