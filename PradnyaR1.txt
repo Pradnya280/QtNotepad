@@ -1,0 +1,51 @@
+PRADNYA REPAL
+
+pradnyaanilrepal28@gmail.com| 9172966520| LinkedIn | Github 
+
+# Objective
+I am hardworking and enthusiast learner, passionate about coding, looking for an opportunity where I can make the best of my potential and contribute to the organisations growth.
+
+
+# Education
+SVERI College Of Engineering, Pandharpur
+-> Bachelor of Technology (B.tech) in Computer Science and Engineering | CGPA: 9.95/10	 
+Creative Public School and Junior College, Akurdi, Pune				                                                  
+-> State Board (Class XII), Aggregate:72.60 %						  
+New  English School, Tulshi								                                          
+->  State Board (Class X), CGPA: 94.80%					              		                  
+
+# skills
+-> C++ | Full Stack Development | C | Java |  Python | Machine Learning | JavaScript  | React | MySQL | Git 
+
+
+# Work Experience 
+1Stop.Ai | Machine learning Intern                         	
+-> Projects completed :Self Driving Car, Wireless sound control system, Restaurant Review using NLP
+Feelypivacy | Full Stack Developer
+-> Developed dark theme dashboard using HTML, CSS, JavaScript, React
+-> Learned PHP, JavaScript, ReactJs, MongoDB and learned to manage professional work at early age
+-> Completed Mini task such as login page using MongoDB Connectivity, React basic website, Currency incrementor using JavaScript
+Mzaalo | Campus Ambassador
+-> Promoted an app through referrals for developing communication skills and marketing skill
+Internshala | Internshala student partner
+-> Promoted Internshala through campus for communication skills and marketing skill
+
+
+Projects
+Attendance system using Face Recognition   
+System which recognizes face and simultaneously mark attendance using python, machine Learning
+-> Real time attendance system for any professional place, useful for student attendance,it scans the face and after
+recognition it marks the attendance, Build using Python, Machine Learning 
+Music Player                                                                                                                                                           March’22                                                                                                                                                                                                                                         project which supporting all known media files and has ability to play them with ease..
+-> User may see track lists and play desired ones accordingly 
+-> Build using HTML, CSS, Javascript
+
+
+Academic and Extracurricular Achievements
+-> Selected in University Level competition Avishkar 2k22 among 70+ students from Institute
+-> Selected for Zensar ESD program
+-> Codechef (2 star) Bronze badge - Global rank 3705 Feb cook-off 2023 
+-> Hackerrank Problem solving (3 star), C++( 5 star), c (4 star)  
+-> Microsoft AI classroom Ceritfication
+
+
