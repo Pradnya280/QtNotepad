@@ -1,5 +1,5 @@
 # QtNotepad
-This is Simple Texteditor using developed using qtcreator
+This is Simple Texteditor Notepad application developed using qtcreator
 
 You can run this code in the Qt Creator application by selecting the "Run" option. In the main window, I have added a QTextEdit for text editing, and various tools have been added to the toolbars. When a widget action is triggered, certain actions will be performed.
 
